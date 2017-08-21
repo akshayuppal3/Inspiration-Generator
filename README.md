@@ -1,1 +1,2 @@
-"# Inspiration-Generator" 
+# Inspiration-Generator
+## Inspiration for Programming
