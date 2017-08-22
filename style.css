@@ -1,0 +1,20 @@
+h1{color:whitesmoke;
+   font-family: "Century Gothic"; 
+   text-align: center;
+}
+body{color:whitesmoke;
+     font-family: "Century Gothic"; 
+     font-size: 125%;
+     text-align: center;
+}
+body  {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Autumn_trees_in_Dresden.jpg/1280px-Autumn_trees_in_Dresden.jpg");
+}
+button{
+    color:green;
+    font-family: "Century Gothic"; 
+}
+
+
+
+
